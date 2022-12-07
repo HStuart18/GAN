@@ -1,4 +1,4 @@
-# Generative Adverserial Network for generating images similar to an image dataset
+# Generative Adverserial Network for generating images
 
 The code here is a slightly altered version of the code that has been generously made publicly available at https://github.com/gsurma/image_generator
 
